@@ -1,0 +1,200 @@
+[2026-10-27 00:13:00.003] [ ERROR ] [Main ] [shell] Could not do OpenProcess on parent process.
+[2026-10-27 00:13:00.003] [DISPLAY] [Main ] [main] Command line: "C:\Users\Staff\AppData\Local\FiveM\FiveM.app\data\cache\subprocess\FiveM_ROSLauncher" ros:launcher --parent_pid=22956 "C:\Program Files\Rockstar Games\Launcher\Launcher.exe" -noRecogniser
+[2026-10-27 00:13:00.003] [DISPLAY] [Main ] [main] Working directory: C:\Program Files\Rockstar Games\Launcher
+[2026-10-27 00:13:00.003] [DISPLAY] [Main ] [main] Build type: FMB
+[2026-10-27 00:13:00.006] [DISPLAY] [Main ] [main] Version: 1.0.53.576
+[2026-10-27 00:13:00.006] [DISPLAY] [Main ] [main] Parameters:
+[2026-10-27 00:13:00.006] [DISPLAY] [Main ] [main]     C:\Users\Staff\AppData\Local\FiveM\FiveM.app\data\cache\subprocess\FiveM_ROSLauncher
+[2026-10-27 00:13:00.006] [DISPLAY] [Main ] [main]     ros:launcher
+[2026-10-27 00:13:00.006] [DISPLAY] [Main ] [main]     --parent_pid=22956
+[2026-10-27 00:13:00.006] [DISPLAY] [Main ] [main]     C:\Program Files\Rockstar Games\Launcher\Launcher.exe
+[2026-10-27 00:13:00.007] [DISPLAY] [Main ] [main]     -noRecogniser
+[2026-10-27 00:13:00.029] [DISPLAY] [Main ] [minmode] Starting up normally.
+[2026-10-27 00:13:00.030] [DISPLAY] [Main ] [launcher] Opening log file.
+[2026-10-27 00:13:00.069] [DISPLAY] [Main ] [preqmanager] Could not get preq list from disk; no preqs known to be installed.
+[2026-10-27 00:13:00.075] [DISPLAY] [Main ] [svc] Service version: 1.0.53.576 (1.0.53.576)
+[2026-10-27 00:13:00.147] [DISPLAY] [Main ] [fileutils] Version: 2.0.9.0 | 1.0.53.576 | FFP
+[2026-10-27 00:13:00.172] [ ERROR ] [Workr] [titleupdater] Unable to load merged manifest from disk for title Rockstar Games Launcher.
+[2026-10-27 00:13:00.583] [DISPLAY] [Main ] [systemtray] System tray: enabled
+[2026-10-27 00:13:00.621] [DISPLAY] [ 6136] [svc] Received response from service.
+[2026-10-27 00:13:00.638] [DISPLAY] [Workr] [idownloader] Starting download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/launcher_online_config.xml'
+[2026-10-27 00:13:00.694] [ ERROR ] [Workr] [idownloader] Download error for https://gamedownloads-rockstargames-com.akamaized.net/public/launcher_online_config.xml
+[2026-10-27 00:13:00.694] [ ERROR ] [Workr] [idownloader] Error: The Rockstar update service is unavailable (code 234). If you continue to have problems playing the game, please contact Rockstar Games Customer Service at https://support.rockstargames.com.
+[2026-10-27 00:13:00.694] [ ERROR ] [Workr] [idownloader] Error code: 234 Result 400
+[2026-10-27 00:13:00.694] [DISPLAY] [Workr] [idownloader] Completed download of 'https://gamedownloads-rockstargames-com.akamaized.net/public/launcher_online_config.xml' (status: 4/400)
+[2026-10-27 00:13:00.694] [ ERROR ] [Workr] [error] ************************************************************************
+[2026-10-27 00:13:00.694] [ ERROR ] [Workr] [error] * Setting error condition
+[2026-10-27 00:13:00.694] [ ERROR ] [Workr] [error] * Category:  2   (ERROR_CATEGORY_DOWNLOADER)
+[2026-10-27 00:13:00.694] [ ERROR ] [Workr] [error] * Code:      234 (DOWNLOADER_ERR_R_DOWNLOADER_FAILED)
+[2026-10-27 00:13:00.694] [ ERROR ] [Workr] [error] * Extra:     Result 400
+[2026-10-27 00:13:00.694] [ ERROR ] [Workr] [error] * Localised: The Rockstar update service is unavailable (code 234). If you continue to have problems playing the game, please contact Rockstar Games Customer Service at https://support.rockstargames.com.
+[2026-10-27 00:13:00.694] [ ERROR ] [Workr] [error] ************************************************************************
+[2026-10-27 00:13:00.695] [ ERROR ] [Workr] [onlineconfig] Unable to download options file!
+[2026-10-27 00:13:00.832] [DISPLAY] [Main ] [scuimessage] Sending version info to Social Club UI
+[2026-10-27 00:13:00.833] [DISPLAY] [22912] [sysinfo] Drive C:\ has 153263001600 bytes free, 239138725888 bytes total
+[2026-10-27 00:13:00.901] [DISPLAY] [Main ] [launcher] Time to start up: 913 ms
+[2026-10-27 00:13:00.905] [DISPLAY] [Main ] [ui_mainwindow] Using DPI 96,96
+[2026-10-27 00:13:00.905] [DISPLAY] [Main ] [ui_mainwindow] Using UI Scale: 1.00
+[2026-10-27 00:13:00.905] [DISPLAY] [Main ] [ui_mainwindow] Centering on monitor: 320,262 (1280 x 600)
+[2026-10-27 00:13:00.905] [DISPLAY] [Main ] [systemtray] System tray: enabled
+[2026-10-27 00:13:01.247] [DISPLAY] [Main ] [launcher] Presence Event - Signed In
+[2026-10-27 00:13:01.247] [DISPLAY] [Main ] [launcher] User 'R43c5b2ff' is now signed in
+[2026-10-27 00:13:01.262] [DISPLAY] [Main ] [launcher] Presence Event :: Went Online
+[2026-10-27 00:13:01.262] [DISPLAY] [Admin] [titlemanager] Downloading title list...
+[2026-10-27 00:13:01.262] [DISPLAY] [Admin] [titlemanager] Downloading title list (SCS)...
+[2026-10-27 00:13:01.373] [DISPLAY] [Main ] [launcher] Friend Event - Friends are Available
+[2026-10-27 00:13:01.462] [DISPLAY] [Admin] [titlemanager] Retrieved title: gta3
+[2026-10-27 00:13:01.462] [DISPLAY] [Admin] [titlemanager] Retrieved title: gta5
+[2026-10-27 00:13:01.462] [DISPLAY] [Admin] [titlemanager] Retrieved title: lanoirevr
+[2026-10-27 00:13:01.462] [DISPLAY] [Admin] [titlemanager] Retrieved title: gtavc
+[2026-10-27 00:13:01.462] [DISPLAY] [Admin] [titlemanager] Retrieved title: rdr2_sp_rgl
+[2026-10-27 00:13:01.462] [DISPLAY] [Admin] [titlemanager] Retrieved title: rdr2_sp
+[2026-10-27 00:13:01.462] [DISPLAY] [Admin] [titlemanager] Retrieved title: mp3
+[2026-10-27 00:13:01.463] [DISPLAY] [Admin] [titlemanager] Retrieved title: bully
+[2026-10-27 00:13:01.463] [DISPLAY] [Admin] [titlemanager] Retrieved title: gtasa
+[2026-10-27 00:13:01.463] [DISPLAY] [Admin] [titlemanager] Retrieved title: launcher
+[2026-10-27 00:13:01.463] [DISPLAY] [Admin] [titlemanager] Retrieved title: rdr2
+[2026-10-27 00:13:01.463] [DISPLAY] [Admin] [titlemanager] Retrieved title: rdr2_rdo
+[2026-10-27 00:13:01.463] [DISPLAY] [Admin] [titlemanager] Retrieved title: lanoire
+[2026-10-27 00:13:01.463] [DISPLAY] [Admin] [titlemanager] Title list updated.
+[2026-10-27 00:13:01.463] [WARNING] [Admin] [titlemanager] Title gta3      : no branches!
+[2026-10-27 00:13:01.463] [DISPLAY] [Admin] [titlemanager] Title gta5      : on branch "default"
+[2026-10-27 00:13:01.463] [WARNING] [Admin] [titlemanager] Title gtavc     : no branches!
+[2026-10-27 00:13:01.464] [WARNING] [Admin] [titlemanager] Title rdr2_sp_rgl: no branches!
+[2026-10-27 00:13:01.464] [WARNING] [Admin] [titlemanager] Title rdr2_sp   : no branches!
+[2026-10-27 00:13:01.464] [WARNING] [Admin] [titlemanager] Title mp3       : no branches!
+[2026-10-27 00:13:01.464] [WARNING] [Admin] [titlemanager] Title bully     : no branches!
+[2026-10-27 00:13:01.464] [WARNING] [Admin] [titlemanager] Title gtasa     : no branches!
+[2026-10-27 00:13:01.464] [DISPLAY] [Admin] [titlemanager] Title rdr2      : on branch "default"
+[2026-10-27 00:13:01.464] [DISPLAY] [Admin] [titlemanager] Title rdr2_rdo  : on branch "default"
+[2026-10-27 00:13:01.464] [WARNING] [Admin] [titlemanager] Title lanoire   : no branches!
+[2026-10-27 00:13:01.464] [DISPLAY] [Admin] [titlemanager] Title launcher  : on branch "default"
+[2026-10-27 00:13:01.510] [DISPLAY] [Main ] [scuicallbacks] Enabling Downloading
+[2026-10-27 00:13:01.663] [ ERROR ] [Main ] [services] Invalid hash length parsed for file 9178: 0 chars ()
+[2026-10-27 00:13:01.681] [ ERROR ] [Main ] [services] Reporting error (id=2, result=-1)
+[2026-10-27 00:13:01.690] [ ERROR ] [Admin] [manifestmanager] Unable to download manifest from SCS using main service: rdr2, 0
+[2026-10-27 00:13:01.690] [ ERROR ] [Admin] [manifestmanager] Unable to download manifest: rdr2, 0
+[2026-10-27 00:13:01.884] [ ERROR ] [Main ] [services] Invalid hash length parsed for file 9178: 0 chars ()
+[2026-10-27 00:13:01.901] [ ERROR ] [Main ] [services] Reporting error (id=2, result=-1)
+[2026-10-27 00:13:01.910] [ ERROR ] [Admin] [manifestmanager] Unable to download manifest from SCS using main service: rdr2, 0
+[2026-10-27 00:13:01.910] [ ERROR ] [Admin] [manifestmanager] Unable to download manifest: rdr2, 0
+[2026-10-27 00:13:02.105] [ ERROR ] [Main ] [services] Invalid hash length parsed for file 9178: 0 chars ()
+[2026-10-27 00:13:02.121] [ ERROR ] [Main ] [services] Reporting error (id=2, result=-1)
+[2026-10-27 00:13:02.129] [ ERROR ] [Admin] [manifestmanager] Unable to download manifest from SCS using main service: rdr2, 0
+[2026-10-27 00:13:02.129] [ ERROR ] [Admin] [manifestmanager] Unable to download manifest: rdr2, 0
+[2026-10-27 00:13:02.129] [ ERROR ] [Admin] [mergedmanifest] Unable to download manifest for title Red Dead Redemption 2.
+[2026-10-27 00:13:02.129] [ ERROR ] [Admin] [titleupdater] Unable to download merged manifest for title Red Dead Redemption 2.
+[2026-10-27 00:13:02.340] [ ERROR ] [Main ] [services] Reporting error (id=2, result=-2)
+[2026-10-27 00:13:02.347] [WARNING] [Admin] [manifestmanager] Branch token expired when downloading manifest from SCS using main service: launcher, 59
+[2026-10-27 00:13:02.347] [ ERROR ] [Admin] [manifestmanager] Unable to download manifest: launcher, 59
+[2026-10-27 00:13:02.347] [DISPLAY] [Admin] [titlemanager] Downloading title list...
+[2026-10-27 00:13:02.347] [DISPLAY] [Admin] [titlemanager] Downloading title list (SCS)...
+[2026-10-27 00:13:02.513] [DISPLAY] [Admin] [titlemanager] Retrieved title: gta3
+[2026-10-27 00:13:02.513] [DISPLAY] [Admin] [titlemanager] Retrieved title: gta5
+[2026-10-27 00:13:02.513] [DISPLAY] [Admin] [titlemanager] Retrieved title: lanoirevr
+[2026-10-27 00:13:02.513] [DISPLAY] [Admin] [titlemanager] Retrieved title: gtavc
+[2026-10-27 00:13:02.513] [DISPLAY] [Admin] [titlemanager] Retrieved title: rdr2_sp_rgl
+[2026-10-27 00:13:02.513] [DISPLAY] [Admin] [titlemanager] Retrieved title: rdr2_sp
+[2026-10-27 00:13:02.513] [DISPLAY] [Admin] [titlemanager] Retrieved title: mp3
+[2026-10-27 00:13:02.514] [DISPLAY] [Admin] [titlemanager] Retrieved title: bully
+[2026-10-27 00:13:02.514] [DISPLAY] [Admin] [titlemanager] Retrieved title: gtasa
+[2026-10-27 00:13:02.514] [DISPLAY] [Admin] [titlemanager] Retrieved title: launcher
+[2026-10-27 00:13:02.514] [DISPLAY] [Admin] [titlemanager] Retrieved title: rdr2
+[2026-10-27 00:13:02.514] [DISPLAY] [Admin] [titlemanager] Retrieved title: rdr2_rdo
+[2026-10-27 00:13:02.514] [DISPLAY] [Admin] [titlemanager] Retrieved title: lanoire
+[2026-10-27 00:13:02.514] [DISPLAY] [Admin] [titlemanager] Title list updated.
+[2026-10-27 00:13:02.514] [WARNING] [Admin] [titlemanager] Title gta3      : no branches!
+[2026-10-27 00:13:02.514] [DISPLAY] [Admin] [titlemanager] Title gta5      : on branch "default"
+[2026-10-27 00:13:02.514] [WARNING] [Admin] [titlemanager] Title gtavc     : no branches!
+[2026-10-27 00:13:02.515] [WARNING] [Admin] [titlemanager] Title rdr2_sp_rgl: no branches!
+[2026-10-27 00:13:02.515] [WARNING] [Admin] [titlemanager] Title rdr2_sp   : no branches!
+[2026-10-27 00:13:02.515] [WARNING] [Admin] [titlemanager] Title mp3       : no branches!
+[2026-10-27 00:13:02.515] [WARNING] [Admin] [titlemanager] Title bully     : no branches!
+[2026-10-27 00:13:02.515] [WARNING] [Admin] [titlemanager] Title gtasa     : no branches!
+[2026-10-27 00:13:02.515] [DISPLAY] [Admin] [titlemanager] Title rdr2      : on branch "default"
+[2026-10-27 00:13:02.515] [DISPLAY] [Admin] [titlemanager] Title rdr2_rdo  : on branch "default"
+[2026-10-27 00:13:02.515] [WARNING] [Admin] [titlemanager] Title lanoire   : no branches!
+[2026-10-27 00:13:02.515] [DISPLAY] [Admin] [titlemanager] Title launcher  : on branch "default"
+[2026-10-27 00:13:02.729] [ ERROR ] [Main ] [services] Reporting error (id=2, result=-2)
+[2026-10-27 00:13:02.736] [WARNING] [Admin] [manifestmanager] Branch token expired when downloading manifest from SCS using main service: launcher, 59
+[2026-10-27 00:13:02.736] [ ERROR ] [Admin] [manifestmanager] Unable to download manifest: launcher, 59
+[2026-10-27 00:13:02.736] [DISPLAY] [Admin] [titlemanager] Downloading title list...
+[2026-10-27 00:13:02.736] [DISPLAY] [Admin] [titlemanager] Downloading title list (SCS)...
+[2026-10-27 00:13:02.905] [DISPLAY] [Admin] [titlemanager] Retrieved title: gta3
+[2026-10-27 00:13:02.905] [DISPLAY] [Admin] [titlemanager] Retrieved title: gta5
+[2026-10-27 00:13:02.905] [DISPLAY] [Admin] [titlemanager] Retrieved title: lanoirevr
+[2026-10-27 00:13:02.905] [DISPLAY] [Admin] [titlemanager] Retrieved title: gtavc
+[2026-10-27 00:13:02.905] [DISPLAY] [Admin] [titlemanager] Retrieved title: rdr2_sp_rgl
+[2026-10-27 00:13:02.905] [DISPLAY] [Admin] [titlemanager] Retrieved title: rdr2_sp
+[2026-10-27 00:13:02.905] [DISPLAY] [Admin] [titlemanager] Retrieved title: mp3
+[2026-10-27 00:13:02.906] [DISPLAY] [Admin] [titlemanager] Retrieved title: bully
+[2026-10-27 00:13:02.906] [DISPLAY] [Admin] [titlemanager] Retrieved title: gtasa
+[2026-10-27 00:13:02.906] [DISPLAY] [Admin] [titlemanager] Retrieved title: launcher
+[2026-10-27 00:13:02.906] [DISPLAY] [Admin] [titlemanager] Retrieved title: rdr2
+[2026-10-27 00:13:02.906] [DISPLAY] [Admin] [titlemanager] Retrieved title: rdr2_rdo
+[2026-10-27 00:13:02.906] [DISPLAY] [Admin] [titlemanager] Retrieved title: lanoire
+[2026-10-27 00:13:02.906] [DISPLAY] [Admin] [titlemanager] Title list updated.
+[2026-10-27 00:13:02.906] [WARNING] [Admin] [titlemanager] Title gta3      : no branches!
+[2026-10-27 00:13:02.906] [DISPLAY] [Admin] [titlemanager] Title gta5      : on branch "default"
+[2026-10-27 00:13:02.906] [WARNING] [Admin] [titlemanager] Title gtavc     : no branches!
+[2026-10-27 00:13:02.907] [WARNING] [Admin] [titlemanager] Title rdr2_sp_rgl: no branches!
+[2026-10-27 00:13:02.907] [WARNING] [Admin] [titlemanager] Title rdr2_sp   : no branches!
+[2026-10-27 00:13:02.907] [WARNING] [Admin] [titlemanager] Title mp3       : no branches!
+[2026-10-27 00:13:02.907] [WARNING] [Admin] [titlemanager] Title bully     : no branches!
+[2026-10-27 00:13:02.907] [WARNING] [Admin] [titlemanager] Title gtasa     : no branches!
+[2026-10-27 00:13:02.907] [DISPLAY] [Admin] [titlemanager] Title rdr2      : on branch "default"
+[2026-10-27 00:13:02.907] [DISPLAY] [Admin] [titlemanager] Title rdr2_rdo  : on branch "default"
+[2026-10-27 00:13:02.907] [WARNING] [Admin] [titlemanager] Title lanoire   : no branches!
+[2026-10-27 00:13:02.907] [DISPLAY] [Admin] [titlemanager] Title launcher  : on branch "default"
+[2026-10-27 00:13:03.118] [ ERROR ] [Main ] [services] Reporting error (id=2, result=-2)
+[2026-10-27 00:13:03.129] [WARNING] [Admin] [manifestmanager] Branch token expired when downloading manifest from SCS using main service: launcher, 59
+[2026-10-27 00:13:03.129] [ ERROR ] [Admin] [manifestmanager] Unable to download manifest: launcher, 59
+[2026-10-27 00:13:03.129] [DISPLAY] [Admin] [titlemanager] Downloading title list...
+[2026-10-27 00:13:03.129] [DISPLAY] [Admin] [titlemanager] Downloading title list (SCS)...
+[2026-10-27 00:13:03.297] [DISPLAY] [Admin] [titlemanager] Retrieved title: gta3
+[2026-10-27 00:13:03.297] [DISPLAY] [Admin] [titlemanager] Retrieved title: gta5
+[2026-10-27 00:13:03.297] [DISPLAY] [Admin] [titlemanager] Retrieved title: lanoirevr
+[2026-10-27 00:13:03.297] [DISPLAY] [Admin] [titlemanager] Retrieved title: gtavc
+[2026-10-27 00:13:03.297] [DISPLAY] [Admin] [titlemanager] Retrieved title: rdr2_sp_rgl
+[2026-10-27 00:13:03.297] [DISPLAY] [Admin] [titlemanager] Retrieved title: rdr2_sp
+[2026-10-27 00:13:03.297] [DISPLAY] [Admin] [titlemanager] Retrieved title: mp3
+[2026-10-27 00:13:03.298] [DISPLAY] [Admin] [titlemanager] Retrieved title: bully
+[2026-10-27 00:13:03.298] [DISPLAY] [Admin] [titlemanager] Retrieved title: gtasa
+[2026-10-27 00:13:03.298] [DISPLAY] [Admin] [titlemanager] Retrieved title: launcher
+[2026-10-27 00:13:03.298] [DISPLAY] [Admin] [titlemanager] Retrieved title: rdr2
+[2026-10-27 00:13:03.298] [DISPLAY] [Admin] [titlemanager] Retrieved title: rdr2_rdo
+[2026-10-27 00:13:03.298] [DISPLAY] [Admin] [titlemanager] Retrieved title: lanoire
+[2026-10-27 00:13:03.298] [DISPLAY] [Admin] [titlemanager] Title list updated.
+[2026-10-27 00:13:03.298] [WARNING] [Admin] [titlemanager] Title gta3      : no branches!
+[2026-10-27 00:13:03.298] [DISPLAY] [Admin] [titlemanager] Title gta5      : on branch "default"
+[2026-10-27 00:13:03.298] [WARNING] [Admin] [titlemanager] Title gtavc     : no branches!
+[2026-10-27 00:13:03.299] [WARNING] [Admin] [titlemanager] Title rdr2_sp_rgl: no branches!
+[2026-10-27 00:13:03.299] [WARNING] [Admin] [titlemanager] Title rdr2_sp   : no branches!
+[2026-10-27 00:13:03.299] [WARNING] [Admin] [titlemanager] Title mp3       : no branches!
+[2026-10-27 00:13:03.299] [WARNING] [Admin] [titlemanager] Title bully     : no branches!
+[2026-10-27 00:13:03.299] [WARNING] [Admin] [titlemanager] Title gtasa     : no branches!
+[2026-10-27 00:13:03.299] [DISPLAY] [Admin] [titlemanager] Title rdr2      : on branch "default"
+[2026-10-27 00:13:03.299] [DISPLAY] [Admin] [titlemanager] Title rdr2_rdo  : on branch "default"
+[2026-10-27 00:13:03.299] [WARNING] [Admin] [titlemanager] Title lanoire   : no branches!
+[2026-10-27 00:13:03.299] [DISPLAY] [Admin] [titlemanager] Title launcher  : on branch "default"
+[2026-10-27 00:13:03.301] [ ERROR ] [Admin] [mergedmanifest] Unable to download manifest for title Rockstar Games Launcher.
+[2026-10-27 00:13:03.301] [ ERROR ] [Admin] [titleupdater] Unable to download merged manifest for title Rockstar Games Launcher.
+[2026-10-27 00:13:03.328] [DISPLAY] [Workr] [statuschecker] Title Grand Theft Auto V: 0.0 KB / 53.47 MB
+[2026-10-27 00:13:03.346] [DISPLAY] [Workr] [updatequeue] Updating Grand Theft Auto V to build ID 104...
+[2026-10-27 00:13:03.680] [DISPLAY] [Workr] [titleupdater] No prerequisites to install.
+[2026-10-27 00:13:03.685] [DISPLAY] [Workr] [titleupdater] Update of Grand Theft Auto V succeeded.
+[2026-10-27 00:13:03.705] [DISPLAY] [Main ] [cloudsaveop] Received cloud saves enabled state for title 'gta5' = disabled
+[2026-10-27 00:13:03.705] [DISPLAY] [Main ] [scuicallbacks] Launch requested
+[2026-10-27 00:13:03.714] [DISPLAY] [ 2088] [statuschecker] Title Grand Theft Auto V: No update
+[2026-10-27 00:13:03.714] [DISPLAY] [ 2088] [gamelaunch] Title has no minimum RGL version.
+[2026-10-27 00:13:03.714] [DISPLAY] [ 2088] [gamelaunch] Title has no minimum RGL version.
+[2026-10-27 00:13:05.214] [DISPLAY] [Main ] [cloudsaveop] Cloud Save sync requested for title 'gta5'
+[2026-10-27 00:13:05.231] [DISPLAY] [Main ] [cloudsaveop] Starting cloud save enabled check for title 'gta5'
+[2026-10-27 00:13:05.235] [DISPLAY] [Main ] [cloudsaveop] Received cloud saves enabled state for title 'gta5' = disabled
+[2026-10-27 00:13:05.235] [DISPLAY] [Main ] [cloudsaveop] Finished syncing cloud saves for title 'gta5'
+[2026-10-27 00:13:05.502] [DISPLAY] [ 2088] [gamelaunch] Launching game...
+[2026-10-27 00:13:05.502] [DISPLAY] [ 2088] [gamelaunch]  Path: C:\Program Files\Rockstar Games\Games\Grand Theft Auto V\GTA5.exe
+[2026-10-27 00:13:05.502] [DISPLAY] [ 2088] [gamelaunch]  Command Line: "C:\Program Files\Rockstar Games\Games\Grand Theft Auto V\GTA5.exe" @commandline.txt -rglLanguage=en-US
+[2026-10-27 00:13:05.502] [DISPLAY] [ 2088] [gamelaunch]  Working Directory: C:\Program Files\Rockstar Games\Games\Grand Theft Auto V
+[2026-10-27 00:13:07.828] [WARNING] [ 6504] [diag] Unable to load DxDiag info from disk
+[2026-10-27 00:16:52.954] [DISPLAY] [Main ] [launcher] Presence Event :: Went Offline
